@@ -114,17 +114,8 @@ server.port=3002
 - `PUT /likeSong/john/{songId}`  
 - `GET /getAllFriendFavouriteSongTitles/john`  
 
-## 📊 Resume Highlights
-- Built a **Spotify-like API clone** with **Java Spring Boot microservices**, handling 10+ REST endpoints.  
-- Integrated **MongoDB (10k+ records)** for song data and **Neo4j (1k+ relationships)** for social graph queries.  
-- Optimized microservice performance using **Maven & Spring Boot tooling**, improving API response time by ~25%.  
-
 ## 📌 Future Improvements
 - Add JWT Authentication for secure profile management.  
 - Containerize services with Docker for easy deployment.  
 - CI/CD pipeline integration with GitHub Actions or Jenkins.  
 
-## 👨‍💻 Author
-**Shashwat Shivam**  
-📧 [Your Email]  
-🔗 [LinkedIn Profile] | [GitHub Profile]  
